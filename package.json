@@ -2,39 +2,18 @@
   "name": "language-typelanguage",
   "displayName": "Type Language",
   "description": "Type Language support",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "publisher": "goodmind",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "categories": [
-    "Languages"
-  ],
-  "contributes": {
-    "languages": [
-      {
-        "id": "typelanguage",
-        "aliases": [
-          "Type Language",
-          "typelanguage"
-        ],
-        "extensions": [
-          ".tl"
-        ],
-        "configuration": "./language-configuration.json"
-      }
-    ],
-    "grammars": [
-      {
-        "language": "typelanguage",
-        "scopeName": "source.tl",
-        "path": "./grammars/typelanguage.tmLanguage.json"
-      }
-    ]
-  },
-  "homepage": "https://github.com/goodmind/language-typelanguage",
+  "homepage": "https://github.com/goodmind/language-typelanguage-atom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/goodmind/language-typelanguage.git"
-  }
+    "url": "https://github.com/goodmind/language-typelanguage-atom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/goodmind/language-typelanguage-atom/issues"
+  },
+  "license": "MIT"
 }
