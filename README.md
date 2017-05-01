@@ -1,8 +1,8 @@
 # Type Language support
 
-Support for the [Type Language](https://core.telegram.org/mtproto/TL) in Visual Studio Code
+Support for the [Type Language](https://core.telegram.org/mtproto/TL) in Atom
 
-![Type Language](./images/code.png)
+![Type Language](./images/atom.png)
 
 ## Known Issues
 
